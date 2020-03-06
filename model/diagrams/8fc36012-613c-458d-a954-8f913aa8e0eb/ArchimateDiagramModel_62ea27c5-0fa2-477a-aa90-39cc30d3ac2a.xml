@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
+    name="NORA basisprincipes (BP)"
     id="62ea27c5-0fa2-477a-aa90-39cc30d3ac2a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -100,8 +100,8 @@
     <bounds
         x="48"
         y="84"
-        width="844"
-        height="325"/>
+        width="685"
+        height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="90686f7a-d709-404f-80fd-c774cc6217f0"
